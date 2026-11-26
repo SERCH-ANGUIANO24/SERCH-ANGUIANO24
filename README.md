@@ -1,7 +1,7 @@
 <div align="center">
-# 👋 ¡Hola! Soy TU NOMBRE
+# 👋 ¡Hola! Soy Sergio
  
-### Tu Título Profesional · Ej. Desarrollador Full Stack / Ing. en Sistemas
+### Tu Título Profesio · Ej. Desarrollador Full Stack / Ing. en Sistemas
  
 <p>
   <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
