@@ -1,7 +1,7 @@
 <div align="center">
 # 👋 ¡Hola! Soy Sergio
  
-### Tu Título Profesio · Ej. Desarrollador Full Stack / Ing. en Sistemas
+###· Ing. en Sistemas
  
 <p>
   <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -14,7 +14,7 @@
  
 ## 🧑‍💻 Sobre mí
  
-- 🎓 Estudio / Soy **TU CARRERA O PROFESIÓN** en **TU UNIVERSIDAD / EMPRESA**
+- 🎓 Soy egresado de la carrera de ingenieria en sistemas computacionales **** en la **Universidad Politécnica de Texoco**
 - 🔭 Actualmente trabajando en **NOMBRE DE PROYECTO**
 - 🌱 Aprendiendo **TECNOLOGÍA 1, TECNOLOGÍA 2**
 - 🤝 Abierto a colaborar en proyectos de **TEMA / ÁREA**
