@@ -1,7 +1,7 @@
 <div align="center">
-# 👋 ¡Hola! Soy Sergio
+<h1>👋 ¡Hola! Soy Sergio</h1>
  
-###· Ing. en Sistemas
+<h2>· Ing. en Sistemas</h2>
  
 <p>
   <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -15,12 +15,11 @@
 ## 🧑‍💻 Sobre mí
  
 - 🎓 Soy egresado de la carrera de ingenieria en sistemas computacionales **** en la **Universidad Politécnica de Texoco**
-- 🔭 Actualmente trabajando en **NOMBRE DE PROYECTO**
-- 🌱 Aprendiendo **TECNOLOGÍA 1, TECNOLOGÍA 2**
-- 🤝 Abierto a colaborar en proyectos de **TEMA / ÁREA**
-- 📍 Ubicado en **Ciudad, País**
-- 💬 Pregúntame sobre **TEMA 1, TEMA 2**
-- ⚡ Dato curioso: **ESCRIBE ALGO DIVERTIDO**
+- 🔭 Actualmente construyendo mi carrera profesional.
+- 🌱 Aprendiendo **React, Java, y Docker**
+- 🤝 Abierto a colaborar en proyectos de **desarrollo de software y aplicaciones web y/o automatizaciones para los negocios**
+- 📍 Ubicado en **Estado de México, México**
+- ⚡ Dato curioso: **Me gusta aprender nuevas tecnologías de desarrollo**
 ---
  
 ## 🛠️ Tecnologías y herramientas
@@ -29,9 +28,10 @@
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=PHP&logoColor=black)
+
  
 **Frontend**
  
